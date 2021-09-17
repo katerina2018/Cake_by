@@ -138,10 +138,6 @@ a:hover {
     transform: translateX(0px);
 }
 
-.nav__item+.nav__item {
-    padding-left: 223px;
-}
-
 .logo {
     position: relative;
 }
@@ -724,7 +720,6 @@ a:hover {
 }
 
 .order__img:hover {
-    /* width: 170px; */
     transform: scale(1.2);
 }
 
